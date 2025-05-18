@@ -41,7 +41,13 @@ On this career goals and reflection assignment serves as a reflective exercise t
 
 1. **Short-term Goals** (Next 1-2 years):
     
-   ### Year 1: Month 5-7
+### Year 1: Month 5-7
+
+✅ Completed
+
+🟡 In Progress
+
+🔴 Not Started
 
 | Goal           | Goal Description                                   | Status     | Target Completion |
 |-----------------------|----------------------------------------------------|------------|-------------------|
@@ -54,12 +60,19 @@ On this career goals and reflection assignment serves as a reflective exercise t
 
 | Goal           | Goal Description                                   | Status     | Target Completion |
 |-----------------------|----------------------------------------------------|------------|-------------------|
-| Master HTML, CSS & JS            | Build 3 small websites (e.g portfolio, product landing page,blog) | 🟡 In Progress | JUNE 2025          |
-| Learn Git + Github     | Create 3 repositories with clean commits         | ✅ Completed | MAY 2025         |
-| UI Principles             | Study layouts, colour, spacing on Figma. Recreate 3 app screens           | 🔴 Not Started | July 2025        |
-| Set up Linkedln Github         | Professional bio, pinned projects, clear title    | 🔴 Not Started  | July 2025          |
+| Learn React           | Build 2 small React apps(to do list, Weather app) | 🔴 Not Started  | NOV 2025          |
+| Framer Motion or GSAP     | Animate UI in react projects( transition, hover, loaders)         | 🔴 Not Started | August 2025         |
+| Design + Code Project            | Design a UI in Figma → build it in code | 🔴 Not Started | SEP 2025        |
+| First Portfolio Website        | Launch portfolio on Netlify or Vercel   | 🔴 Not Started  | NOV 2025          |
 
+### Year 2: Month 12-2
 
+| Goal           | Goal Description                                   | Status     | Target Completion |
+|-----------------------|----------------------------------------------------|------------|-------------------|
+| UX Basics           | Learn user flows, personas, usability | 🔴 Not Started  | Dec 2025          |
+| Team Project     | Join a team on github(open-source or collab with friends)| | 🔴 Not Started | Jan 2025         |
+| Apply for internships            | Target local studios( Rogerwilco, VMLY&R, agencies on Linkdln | 🔴 Not Started | Feb 2025        |
+| Add 2 polished projects       | UI + Animation + Responsive + Accessibility   | 🔴 Not Started  | Feb 2025          |
 
 
 3. **Long-term Goals** (3-5 years and beyond):
