@@ -2,7 +2,7 @@
  ## Goals Reflection 👩🏾‍💻
 
 
-On this career goals and reflection assignment serves as a reflective exercise to solidify my commitment to becoming a skilled Front-End and UI developer. By setting realistic goals, continuously assessing my progress, and remaining adaptable to the evolving tech landscape, I am confident in my ability to achieve my aspirations and make meaningful contributions to becoming a front end user interface(UI).
+On this career goals and reflection assignment I will be solidifying my commitment to becoming a skilled Front-End and UI developer. By setting realistic goals, continuously assessing my progress, and remaining adaptable to the evolving tech landscape, I am confident in my ability to achieve my aspirations and make meaningful contributions to becoming a front end user interface(UI).
 
 ### 🔴 Personal Information
 
@@ -17,8 +17,8 @@ On this career goals and reflection assignment serves as a reflective exercise t
     
     - My current skills include software Knowledge of 2D animation tools like toonboom and adobe photoshop/illustrator and 3D animation tools like Autodesk Maya and Mudbox and Blender and Basic Rigging and Lip-Syncing.
     - Some soft skills I am good at include Communication and Teamwork as well as Creative Problem-Solving and attention to details.
-    - Skills I need to improve are HTML, CSS and JavaScript
-    - Some soft skills I need to improve on is time management
+    - Skills I need to improve are HTML, CSS and JavaScript.
+    - Some soft skills I need to improve on is time management.
 
 2. **Interests and Values**:
     
