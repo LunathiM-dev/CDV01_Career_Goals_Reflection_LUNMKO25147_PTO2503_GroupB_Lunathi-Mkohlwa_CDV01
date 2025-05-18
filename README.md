@@ -1,60 +1,73 @@
 
-# Career Goals Reflection Template
+ ## Goals Reflection 👩🏾‍💻
 
-### Introduction to the Template
 
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
+On this career goals and reflection assignment serves as a reflective exercise to solidify my commitment to becoming a skilled Front-End and UI developer. By setting realistic goals, continuously assessing my progress, and remaining adaptable to the evolving tech landscape, I am confident in my ability to achieve my aspirations and make meaningful contributions to becoming a front end user interface(UI).
 
-### Instructions for Using the Template:
+### 🔴 Personal Information
 
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
+- Name: Lunathi Mkohlwa
+- Date: 18 May 2025
+- Current Role/Position: Part time Student/ Working in Animation
+- Field of Interest: Front end user interface(UI) 
 
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
-### Personal Information
-
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
-
-### Part 1: Self-Assessment Reflection
+### 🔴 Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - My current skills include software Knowledge of 2D animation tools like toonboom and adobe photoshop/illustrator and 3D animation tools like Autodesk Maya and Mudbox and Blender and Basic Rigging and Lip-Syncing.
+    - Some soft skills I am good at include Communication and Teamwork as well as Creative Problem-Solving and attention to details.
+    - Skills I need to improve are HTML, CSS and JavaScript
+    - Some soft skills I need to improve on is time management
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - The key interests include passion for how things look so Design and Aesthetics which include enjoying tools such as figma Adobe XD and Sketch. As well as problem solving which include debugging translating user needs into clear visual experience. UX is also part of the interests following UX trends and being detail orient. I do feel like Front-end is where design meets development and communication is key.
+    - Values that are important to me include collaboration, as well as being able to be in a continuous learning environment. Open-mindedness and adaptability. As well as User-centric thinking as someone who is always online shopping I think its important to have the best user experience and want that for everyone.
 
-### Part 2: Career Exploration Insights
+### 🔴 Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - A few junior roles I found include: Digital agencies like Yoco, Luno, Snapscan, SweepSouth. Creative studios like King James group, VMLY&R, Catch and 99c. Some compainies which are offering internships and learnershios are: Offerzen Foundation and NGOs like: RLabs and CapaCiTi(CiTi)
+    - I will be looking into Luno and Sweepsouth or Amazon 
+    
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - I believe since I do have a strong understanding on visual storytelling, timing and design principles this can help with adding motion and interactivity to the user experience. These skills with creating apps that need smooth onboarding animations, transitions or even 3D effects would help me stand out.
+    - I need to improve is building strong coding fundamentals especially in CSS3 & Responsive design, Javascript ES6+ anad version control(Git/Github).
 
-### Part 3: SMART Career Goals
+### 🔴 Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
-2. **Long-term Goals** (3-5 years and beyond):
+   ### Year 1: Month 5-7
+
+| Goal           | Goal Description                                   | Status     | Target Completion |
+|-----------------------|----------------------------------------------------|------------|-------------------|
+| Master HTML, CSS & JS            | Build 3 small websites (e.g portfolio, product landing page,blog) | 🟡 In Progress | JUNE 2025          |
+| Learn Git + Github     | Create 3 repositories with clean commits         | ✅ Completed | MAY 2025         |
+| UI Principles             | Study layouts, colour, spacing on Figma. Recreate 3 app screens           | 🔴 Not Started | July 2025        |
+| Set up Linkedln Github         | Professional bio, pinned projects, clear title    | 🔴 Not Started  | July 2025          |
+
+### Year 1: Month 8-11
+
+| Goal           | Goal Description                                   | Status     | Target Completion |
+|-----------------------|----------------------------------------------------|------------|-------------------|
+| Master HTML, CSS & JS            | Build 3 small websites (e.g portfolio, product landing page,blog) | 🟡 In Progress | JUNE 2025          |
+| Learn Git + Github     | Create 3 repositories with clean commits         | ✅ Completed | MAY 2025         |
+| UI Principles             | Study layouts, colour, spacing on Figma. Recreate 3 app screens           | 🔴 Not Started | July 2025        |
+| Set up Linkedln Github         | Professional bio, pinned projects, clear title    | 🔴 Not Started  | July 2025          |
+
+
+
+
+3. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
     - Describe how these align with your interests and skills.
 
-### Part 4: Action Plan
+### 🔴 Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
@@ -65,7 +78,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Describe the preparations or groundwork necessary for your long-term aspirations.
     - Consider additional skills, experiences, or qualifications needed.
 
-### Part 5: Reflection on Challenges and Opportunities
+### 🔴 Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
